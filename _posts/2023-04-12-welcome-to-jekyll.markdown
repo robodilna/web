@@ -1,9 +1,14 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Máme nové stránky"
 date:   2023-04-12 17:34:20 +0200
-categories: jekyll update
 ---
+Vytovřili jsme první zkušební verzi nových stránek. Ještě uvidíme, jak se o ně bdeme starat, ale chceme tu mít seznam projektů a tak.
+
+## Hřiště
+
+Protože se učíme, jak s Jekyllem pracovat, necháváme si tu ukázku původního kódu:
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
