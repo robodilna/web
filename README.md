@@ -1,4 +1,4 @@
 # web
 Webové stránky robodílny
 
-Zde bude kód našeho webu.
+Náš web je nyní dostupný na [robodilna.github.io/web/](https://robodilna.github.io/web/)
