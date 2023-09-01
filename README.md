@@ -1,7 +1,7 @@
-# web
+# Web
 Webové stránky robodílny
 
-Náš web je nyní dostupný na [robodilna.klubzsrevnice.cz/](https://robodilna.klubzsrevnice.cz/)
+Náš web je nyní dostupný na [https://dilna.klubzsrevnice.cz](https://dilna.klubzsrevnice.cz)
 
 
 # robot_factory
